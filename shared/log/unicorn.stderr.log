@@ -1,0 +1,175 @@
+I, [2016-10-07T04:40:04.268223 #10056]  INFO -- : Refreshing Gem list
+I, [2016-10-07T04:40:14.845530 #10056]  INFO -- : listening on addr=/home/vickeyboo/vb/shared/sockets/unicorn.sock fd=9
+I, [2016-10-07T04:40:14.845714 #10056]  INFO -- : worker=0 spawning...
+I, [2016-10-07T04:40:14.847749 #10056]  INFO -- : worker=1 spawning...
+I, [2016-10-07T04:40:14.849852 #10056]  INFO -- : master process ready
+I, [2016-10-07T04:40:14.854995 #10061]  INFO -- : worker=0 spawned pid=10061
+I, [2016-10-07T04:40:14.860680 #10063]  INFO -- : worker=1 spawned pid=10063
+I, [2016-10-07T04:40:14.860919 #10063]  INFO -- : worker=1 ready
+I, [2016-10-07T04:40:14.861257 #10061]  INFO -- : worker=0 ready
+I, [2016-10-07T04:41:33.009203 #10056]  INFO -- : reaped #<Process::Status: pid 10063 exit 0> worker=1
+I, [2016-10-07T04:41:33.327793 #10056]  INFO -- : reaped #<Process::Status: pid 10061 exit 0> worker=0
+I, [2016-10-07T04:41:33.328359 #10056]  INFO -- : master complete
+I, [2016-10-07T04:57:25.283788 #10512]  INFO -- : Refreshing Gem list
+I, [2016-10-07T04:57:35.250195 #10512]  INFO -- : unlinking existing socket=/home/vickeyboo/vb/shared/sockets/unicorn.sock
+I, [2016-10-07T04:57:35.251306 #10512]  INFO -- : listening on addr=/home/vickeyboo/vb/shared/sockets/unicorn.sock fd=9
+I, [2016-10-07T04:57:35.251450 #10512]  INFO -- : worker=0 spawning...
+I, [2016-10-07T04:57:35.253286 #10512]  INFO -- : worker=1 spawning...
+I, [2016-10-07T04:57:35.254886 #10515]  INFO -- : worker=0 spawned pid=10515
+I, [2016-10-07T04:57:35.255091 #10515]  INFO -- : worker=0 ready
+I, [2016-10-07T04:57:35.256837 #10512]  INFO -- : master process ready
+I, [2016-10-07T04:57:35.265594 #10518]  INFO -- : worker=1 spawned pid=10518
+I, [2016-10-07T04:57:35.265866 #10518]  INFO -- : worker=1 ready
+I, [2016-10-07T05:00:37.572438 #10512]  INFO -- : reaped #<Process::Status: pid 10515 exit 0> worker=0
+I, [2016-10-07T05:00:37.674098 #10512]  INFO -- : reaped #<Process::Status: pid 10518 exit 0> worker=1
+I, [2016-10-07T05:00:37.674344 #10512]  INFO -- : master complete
+I, [2016-10-07T05:00:47.503103 #10635]  INFO -- : Refreshing Gem list
+I, [2016-10-07T05:00:54.606203 #10635]  INFO -- : unlinking existing socket=/home/vickeyboo/vb/shared/sockets/unicorn.sock
+I, [2016-10-07T05:00:54.607674 #10635]  INFO -- : listening on addr=/home/vickeyboo/vb/shared/sockets/unicorn.sock fd=9
+I, [2016-10-07T05:00:54.607955 #10635]  INFO -- : worker=0 spawning...
+I, [2016-10-07T05:00:54.611009 #10635]  INFO -- : worker=1 spawning...
+I, [2016-10-07T05:00:54.613229 #10638]  INFO -- : worker=0 spawned pid=10638
+I, [2016-10-07T05:00:54.613699 #10638]  INFO -- : worker=0 ready
+I, [2016-10-07T05:00:54.618698 #10635]  INFO -- : master process ready
+I, [2016-10-07T05:00:54.625226 #10641]  INFO -- : worker=1 spawned pid=10641
+I, [2016-10-07T05:00:54.625714 #10641]  INFO -- : worker=1 ready
+I, [2016-10-07T05:16:57.828800 #10635]  INFO -- : reaped #<Process::Status: pid 10638 exit 0> worker=0
+I, [2016-10-07T05:16:57.908528 #10635]  INFO -- : reaped #<Process::Status: pid 10641 exit 0> worker=1
+I, [2016-10-07T05:16:57.908650 #10635]  INFO -- : master complete
+I, [2016-10-07T05:22:10.534216 #10889]  INFO -- : Refreshing Gem list
+I, [2016-10-07T05:22:36.448138 #10889]  INFO -- : unlinking existing socket=/home/vickeyboo/vb/shared/sockets/unicorn.sock
+I, [2016-10-07T05:22:36.480565 #10889]  INFO -- : listening on addr=/home/vickeyboo/vb/shared/sockets/unicorn.sock fd=13
+I, [2016-10-07T05:22:36.480731 #10889]  INFO -- : worker=0 spawning...
+I, [2016-10-07T05:22:36.482418 #10889]  INFO -- : worker=1 spawning...
+I, [2016-10-07T05:22:36.484713 #10889]  INFO -- : master process ready
+I, [2016-10-07T05:22:36.488895 #10900]  INFO -- : worker=0 spawned pid=10900
+I, [2016-10-07T05:22:36.489141 #10900]  INFO -- : worker=0 ready
+I, [2016-10-07T05:22:36.490269 #10903]  INFO -- : worker=1 spawned pid=10903
+I, [2016-10-07T05:22:36.490451 #10903]  INFO -- : worker=1 ready
+I, [2016-10-07T05:25:58.904913 #10889]  INFO -- : reaped #<Process::Status: pid 10900 exit 0> worker=0
+I, [2016-10-07T05:25:58.905082 #10889]  INFO -- : reaped #<Process::Status: pid 10903 exit 0> worker=1
+I, [2016-10-07T05:25:58.905312 #10889]  INFO -- : master complete
+I, [2016-10-07T05:26:18.525465 #11015]  INFO -- : Refreshing Gem list
+I, [2016-10-07T05:26:25.647343 #11015]  INFO -- : unlinking existing socket=/home/vickeyboo/vb/shared/sockets/unicorn.sock
+I, [2016-10-07T05:26:25.648157 #11015]  INFO -- : listening on addr=/home/vickeyboo/vb/shared/sockets/unicorn.sock fd=9
+I, [2016-10-07T05:26:25.648275 #11015]  INFO -- : worker=0 spawning...
+I, [2016-10-07T05:26:25.649584 #11015]  INFO -- : worker=1 spawning...
+I, [2016-10-07T05:26:25.650441 #11018]  INFO -- : worker=0 spawned pid=11018
+I, [2016-10-07T05:26:25.650637 #11018]  INFO -- : worker=0 ready
+I, [2016-10-07T05:26:25.652133 #11015]  INFO -- : master process ready
+I, [2016-10-07T05:26:25.659215 #11021]  INFO -- : worker=1 spawned pid=11021
+I, [2016-10-07T05:26:25.659414 #11021]  INFO -- : worker=1 ready
+I, [2016-10-07T05:28:34.634756 #11015]  INFO -- : reaped #<Process::Status: pid 11018 exit 0> worker=0
+I, [2016-10-07T05:28:34.634883 #11015]  INFO -- : reaped #<Process::Status: pid 11021 exit 0> worker=1
+I, [2016-10-07T05:28:34.635006 #11015]  INFO -- : master complete
+I, [2016-10-07T05:30:02.403449 #11141]  INFO -- : Refreshing Gem list
+I, [2016-10-07T05:30:06.844287 #11141]  INFO -- : unlinking existing socket=/home/vickeyboo/vb/shared/sockets/unicorn.sock
+I, [2016-10-07T05:30:06.845592 #11141]  INFO -- : listening on addr=/home/vickeyboo/vb/shared/sockets/unicorn.sock fd=9
+I, [2016-10-07T05:30:06.845716 #11141]  INFO -- : worker=0 spawning...
+I, [2016-10-07T05:30:06.847187 #11141]  INFO -- : worker=1 spawning...
+I, [2016-10-07T05:30:06.849227 #11141]  INFO -- : master process ready
+I, [2016-10-07T05:30:06.856030 #11144]  INFO -- : worker=0 spawned pid=11144
+I, [2016-10-07T05:30:06.856228 #11144]  INFO -- : worker=0 ready
+I, [2016-10-07T05:30:06.857182 #11147]  INFO -- : worker=1 spawned pid=11147
+I, [2016-10-07T05:30:06.857370 #11147]  INFO -- : worker=1 ready
+I, [2016-10-07T05:35:21.718376 #11141]  INFO -- : reaped #<Process::Status: pid 11144 exit 0> worker=0
+I, [2016-10-07T05:35:21.839985 #11141]  INFO -- : reaped #<Process::Status: pid 11147 exit 0> worker=1
+I, [2016-10-07T05:35:21.840219 #11141]  INFO -- : master complete
+I, [2016-10-07T05:37:38.082787 #11309]  INFO -- : Refreshing Gem list
+I, [2016-10-07T05:37:47.048558 #11309]  INFO -- : unlinking existing socket=/home/vickeyboo/vb/shared/sockets/unicorn.sock
+I, [2016-10-07T05:37:47.049321 #11309]  INFO -- : listening on addr=/home/vickeyboo/vb/shared/sockets/unicorn.sock fd=9
+I, [2016-10-07T05:37:47.049443 #11309]  INFO -- : worker=0 spawning...
+I, [2016-10-07T05:37:47.050928 #11309]  INFO -- : worker=1 spawning...
+I, [2016-10-07T05:37:47.052475 #11312]  INFO -- : worker=0 spawned pid=11312
+I, [2016-10-07T05:37:47.052692 #11312]  INFO -- : worker=0 ready
+I, [2016-10-07T05:37:47.054309 #11309]  INFO -- : master process ready
+I, [2016-10-07T05:37:47.059978 #11315]  INFO -- : worker=1 spawned pid=11315
+I, [2016-10-07T05:37:47.060209 #11315]  INFO -- : worker=1 ready
+I, [2016-10-07T05:40:42.812829 #11309]  INFO -- : reaped #<Process::Status: pid 11312 exit 0> worker=0
+I, [2016-10-07T05:40:43.134234 #11309]  INFO -- : reaped #<Process::Status: pid 11315 exit 0> worker=1
+I, [2016-10-07T05:40:43.134708 #11309]  INFO -- : master complete
+I, [2016-10-07T05:42:10.899535 #11437]  INFO -- : Refreshing Gem list
+I, [2016-10-07T05:42:19.079514 #11437]  INFO -- : unlinking existing socket=/home/vickeyboo/vb/shared/sockets/unicorn.sock
+I, [2016-10-07T05:42:19.089017 #11437]  INFO -- : listening on addr=/home/vickeyboo/vb/shared/sockets/unicorn.sock fd=9
+I, [2016-10-07T05:42:19.089232 #11437]  INFO -- : worker=0 spawning...
+I, [2016-10-07T05:42:19.091247 #11437]  INFO -- : worker=1 spawning...
+I, [2016-10-07T05:42:19.093241 #11442]  INFO -- : worker=0 spawned pid=11442
+I, [2016-10-07T05:42:19.093532 #11442]  INFO -- : worker=0 ready
+I, [2016-10-07T05:42:19.095715 #11437]  INFO -- : master process ready
+I, [2016-10-07T05:42:19.100976 #11445]  INFO -- : worker=1 spawned pid=11445
+I, [2016-10-07T05:42:19.101307 #11445]  INFO -- : worker=1 ready
+I, [2016-10-07T05:44:27.704485 #11437]  INFO -- : reaped #<Process::Status: pid 11442 exit 0> worker=0
+I, [2016-10-07T05:44:27.762692 #11437]  INFO -- : reaped #<Process::Status: pid 11445 exit 0> worker=1
+I, [2016-10-07T05:44:27.762938 #11437]  INFO -- : master complete
+I, [2016-10-07T05:44:57.674248 #11561]  INFO -- : Refreshing Gem list
+I, [2016-10-07T05:45:34.953666 #11561]  INFO -- : unlinking existing socket=/home/vickeyboo/vb/shared/sockets/unicorn.sock
+I, [2016-10-07T05:45:34.984777 #11561]  INFO -- : listening on addr=/home/vickeyboo/vb/shared/sockets/unicorn.sock fd=13
+I, [2016-10-07T05:45:34.984936 #11561]  INFO -- : worker=0 spawning...
+I, [2016-10-07T05:45:34.986346 #11561]  INFO -- : worker=1 spawning...
+I, [2016-10-07T05:45:34.987272 #11572]  INFO -- : worker=0 spawned pid=11572
+I, [2016-10-07T05:45:34.988813 #11561]  INFO -- : master process ready
+I, [2016-10-07T05:45:34.994561 #11572]  INFO -- : worker=0 ready
+I, [2016-10-07T05:45:34.995917 #11575]  INFO -- : worker=1 spawned pid=11575
+I, [2016-10-07T05:45:34.996120 #11575]  INFO -- : worker=1 ready
+I, [2016-10-07T05:55:51.839778 #11561]  INFO -- : reaped #<Process::Status: pid 11572 exit 0> worker=0
+I, [2016-10-07T05:55:51.875715 #11561]  INFO -- : reaped #<Process::Status: pid 11575 exit 0> worker=1
+I, [2016-10-07T05:55:51.875920 #11561]  INFO -- : master complete
+I, [2016-10-07T05:57:14.861717 #11800]  INFO -- : Refreshing Gem list
+I, [2016-10-07T05:57:18.457682 #11800]  INFO -- : unlinking existing socket=/home/vickeyboo/vb/shared/sockets/unicorn.sock
+I, [2016-10-07T05:57:18.462782 #11800]  INFO -- : listening on addr=/home/vickeyboo/vb/shared/sockets/unicorn.sock fd=9
+I, [2016-10-07T05:57:18.462933 #11800]  INFO -- : worker=0 spawning...
+I, [2016-10-07T05:57:18.464423 #11800]  INFO -- : worker=1 spawning...
+I, [2016-10-07T05:57:18.466070 #11800]  INFO -- : master process ready
+I, [2016-10-07T05:57:18.472884 #11805]  INFO -- : worker=0 spawned pid=11805
+I, [2016-10-07T05:57:18.473487 #11805]  INFO -- : worker=0 ready
+I, [2016-10-07T05:57:18.474847 #11807]  INFO -- : worker=1 spawned pid=11807
+I, [2016-10-07T05:57:18.475040 #11807]  INFO -- : worker=1 ready
+I, [2016-10-07T05:58:58.160851 #11800]  INFO -- : reaped #<Process::Status: pid 11805 exit 0> worker=0
+I, [2016-10-07T05:58:58.255368 #11800]  INFO -- : reaped #<Process::Status: pid 11807 exit 0> worker=1
+I, [2016-10-07T05:58:58.255494 #11800]  INFO -- : master complete
+I, [2016-10-07T06:03:08.917235 #12067]  INFO -- : Refreshing Gem list
+I, [2016-10-07T06:03:11.201262 #12067]  INFO -- : unlinking existing socket=/home/vickeyboo/vb/shared/sockets/unicorn.sock
+I, [2016-10-07T06:03:11.202659 #12067]  INFO -- : listening on addr=/home/vickeyboo/vb/shared/sockets/unicorn.sock fd=9
+I, [2016-10-07T06:03:11.202872 #12067]  INFO -- : worker=0 spawning...
+I, [2016-10-07T06:03:11.204550 #12067]  INFO -- : worker=1 spawning...
+I, [2016-10-07T06:03:11.206023 #12067]  INFO -- : master process ready
+I, [2016-10-07T06:03:11.212760 #12070]  INFO -- : worker=0 spawned pid=12070
+I, [2016-10-07T06:03:11.212961 #12070]  INFO -- : worker=0 ready
+I, [2016-10-07T06:03:11.213831 #12072]  INFO -- : worker=1 spawned pid=12072
+I, [2016-10-07T06:03:11.213993 #12072]  INFO -- : worker=1 ready
+I, [2016-10-07T06:09:18.820916 #12067]  INFO -- : reaped #<Process::Status: pid 12070 exit 0> worker=0
+I, [2016-10-07T06:09:19.247877 #12067]  INFO -- : reaped #<Process::Status: pid 12072 exit 0> worker=1
+I, [2016-10-07T06:09:19.265952 #12067]  INFO -- : master complete
+I, [2016-10-07T06:10:52.381262 #12263]  INFO -- : Refreshing Gem list
+I, [2016-10-07T06:11:02.292570 #12263]  INFO -- : unlinking existing socket=/home/vickeyboo/vb/shared/sockets/unicorn.sock
+I, [2016-10-07T06:11:02.293039 #12263]  INFO -- : listening on addr=/home/vickeyboo/vb/shared/sockets/unicorn.sock fd=9
+I, [2016-10-07T06:11:02.293258 #12263]  INFO -- : worker=0 spawning...
+I, [2016-10-07T06:11:02.295093 #12263]  INFO -- : worker=1 spawning...
+I, [2016-10-07T06:11:02.296541 #12267]  INFO -- : worker=0 spawned pid=12267
+I, [2016-10-07T06:11:02.296892 #12267]  INFO -- : worker=0 ready
+I, [2016-10-07T06:11:02.299959 #12263]  INFO -- : master process ready
+I, [2016-10-07T06:11:02.305044 #12270]  INFO -- : worker=1 spawned pid=12270
+I, [2016-10-07T06:11:02.307611 #12270]  INFO -- : worker=1 ready
+I, [2016-10-07T06:17:42.374636 #12263]  INFO -- : reaped #<Process::Status: pid 12267 exit 0> worker=0
+I, [2016-10-07T06:17:42.374918 #12263]  INFO -- : reaped #<Process::Status: pid 12270 exit 0> worker=1
+I, [2016-10-07T06:17:42.375874 #12263]  INFO -- : master complete
+I, [2016-10-10T22:18:32.986132 #4570]  INFO -- : Refreshing Gem list
+I, [2016-10-10T22:19:04.908349 #4570]  INFO -- : unlinking existing socket=/home/vickeyboo/vb/shared/sockets/unicorn.sock
+I, [2016-10-10T22:19:04.908947 #4570]  INFO -- : listening on addr=/home/vickeyboo/vb/shared/sockets/unicorn.sock fd=9
+I, [2016-10-10T22:19:04.909422 #4570]  INFO -- : worker=0 spawning...
+I, [2016-10-10T22:19:04.915626 #4570]  INFO -- : worker=1 spawning...
+I, [2016-10-10T22:19:04.926446 #4764]  INFO -- : worker=0 spawned pid=4764
+I, [2016-10-10T22:19:04.927383 #4764]  INFO -- : worker=0 ready
+I, [2016-10-10T22:19:04.933599 #4570]  INFO -- : master process ready
+I, [2016-10-10T22:19:04.942634 #4767]  INFO -- : worker=1 spawned pid=4767
+I, [2016-10-10T22:19:04.943829 #4767]  INFO -- : worker=1 ready
+E, [2016-10-10T22:49:12.324595 #4570] ERROR -- : worker=0 PID:4764 timeout (31s > 30s), killing
+E, [2016-10-10T22:49:12.745950 #4570] ERROR -- : reaped #<Process::Status: pid 4764 SIGKILL (signal 9)> worker=0
+I, [2016-10-10T22:49:12.896819 #4570]  INFO -- : worker=0 spawning...
+I, [2016-10-10T22:49:13.179917 #6066]  INFO -- : worker=0 spawned pid=6066
+I, [2016-10-10T22:49:13.224504 #6066]  INFO -- : worker=0 ready
+E, [2016-10-10T22:49:45.964239 #4570] ERROR -- : worker=1 PID:4767 timeout (31s > 30s), killing
+E, [2016-10-10T22:49:45.983058 #4570] ERROR -- : reaped #<Process::Status: pid 4767 SIGKILL (signal 9)> worker=1
+I, [2016-10-10T22:49:45.983271 #4570]  INFO -- : worker=1 spawning...
+I, [2016-10-10T22:49:45.987287 #6075]  INFO -- : worker=1 spawned pid=6075
+I, [2016-10-10T22:49:45.987635 #6075]  INFO -- : worker=1 ready
